@@ -1,5 +1,10 @@
 ### Hi there 👋
 
+- B.S. in Statistics
+- M.S. in Biostatistics
+- Data Analyst in Linewalks
+- Data Analyst in kakaohealthcare
+
 <!--
 **jeawonlll/jeawonlll** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
